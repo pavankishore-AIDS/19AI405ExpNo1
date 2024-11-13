@@ -42,10 +42,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 # PROGRAM:
-```
-ALdrin Lijo J E
-212222240007
-```
+
 ```py
 import random
 class VacuumCleanerAgent:
